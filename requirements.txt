@@ -1,0 +1,2 @@
+py-cord[voice]==2.0.0b5
+Datetime>=4.4
